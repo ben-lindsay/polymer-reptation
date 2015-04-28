@@ -1,0 +1,9 @@
+2       Dim             Number of dimensions
+500     N               Polymer length
+-0.1    eps             Pair interaction param. - for attract, + for repuls
+200000  cut             Number of iterations at beginning to cut from avgs
+100000  conf_freq       Frequency of conformation saves
+1       data_freq       Data output frequency
+10000   max_buff_length Length of data buffer arrays
+1000000 nit             Max iterations
+1       du_speedup_on   1 (true) for speeding up du calc, 0 for no speedup
