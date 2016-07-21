@@ -12,7 +12,7 @@
 
 int main(int argc, char **argv) {
 
-  int done = 0;  
+  int done = 0;
 
   FILE *otp ;
   // Create R.dat file. Overwrite R.dat if one exists
